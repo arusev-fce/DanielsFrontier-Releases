@@ -44,7 +44,7 @@ The game verifies the official download's size and SHA-256 checksum. `FrontierUp
 
 The long-term vision is a persistent shared PvE universe where friends can hunt, explore and eventually quest together. Three linked sectors are playable. Future plans include procedural portal expeditions, changing sector modifiers and community proposals/voting.
 
-Those are future intentions. Full party/group mechanics, a developed questline and the wider universe are not implemented yet. Current work prioritizes movement, combat readability, UI quality, progression and reliable testing.
+Those are future intentions. Session groups now support up to five pilots, live contacts and invitations; party rewards remain individual. A developed questline and the wider universe remain future work. Current work prioritizes movement, combat readability, UI quality, progression and reliable testing.
 
 ## Free-to-play and future open source
 
@@ -53,3 +53,9 @@ The intended direction is **free-to-play and eventually open source**. Test buil
 Code, artistic content and branding will have documented licensing boundaries before the source opens. Public availability of these binaries is not a blanket license to reuse code, art or the game name. Godot and bundled dependencies keep their existing terms. Future open-source availability will not expose player data, credentials or private server configuration.
 
 This repository distributes runtime releases and player documentation only. It contains no game-server database, private registration codes or email-service credentials.
+
+## v0.7.0 - Interface, recovery and pilot skills
+
+Local monitor/window-specific HUD layouts, a Settings exit fix, clearer rectangular maps and compact panels, faster recovery/repair utilities, more rewarding rolled equipment, an original 31-node skill tree, a textured training buoy and online session groups. Existing skills refund once with a save snapshot. Full Windows extraction is required; client and server content must match.
+
+Build, rendered UI and local shared-world checks passed. Physical multi-monitor and extended internet/balance playtesting remain ongoing.
