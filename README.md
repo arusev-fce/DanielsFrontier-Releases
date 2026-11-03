@@ -56,6 +56,8 @@ This repository distributes runtime releases and player documentation only. It c
 
 ## v0.7.0 - Interface, recovery and pilot skills
 
+**Published and live on the private server.** [Read the patch notes](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/tag/v0.7.0).
+
 Local monitor/window-specific HUD layouts, a Settings exit fix, clearer rectangular maps and compact panels, faster recovery/repair utilities, more rewarding rolled equipment, an original 31-node skill tree, a textured training buoy and online session groups. Existing skills refund once with a save snapshot. Full Windows extraction is required; client and server content must match.
 
 Build, rendered UI and local shared-world checks passed. Physical multi-monitor and extended internet/balance playtesting remain ongoing.
