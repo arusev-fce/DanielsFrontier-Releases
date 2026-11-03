@@ -18,13 +18,13 @@ This is an early test build. Windows desktop is the current target; controls, vi
 
 ## What you can try
 
-- **Explore linked sectors:** Home Sector and Verdant Rift have different encounters and linked jump gates, with protected areas around stations/gates.
+- **Explore linked sectors:** Home Sector, Verdant Rift and Ember Reach have different encounters and linked jump gates, with protected areas around stations/gates.
 - **Build your ship:** equip lasers, rockets, shields, engines, utilities and drones. Larger hulls offer more equipment options.
 - **Fight and progress:** earn rewards, collect salvage, develop skills and try equipment tiers and drone formations.
 - **Make the interface yours:** move/resize HUD panels, navigate with the minimap/atlas and customize the hotbar.
 - **Choose how to play:** local offline pilots or the current private online universe.
 
-v0.5.1 adds continuous online player movement with gradual server corrections, an FPS/frame-time/ping display, a textured salvage container and generated title artwork. Internet movement feel and laptop touchpad behavior still need testing; faster downloads are planned.
+**v0.6.0 — Frontier expansion:** 50/65/80 encounters spread across the sectors, dedicated map bosses and minibosses, seven rebuilt player hulls and fifteen enemy designs, expanded equipment/economy progression, Mythic rewards with saved pity, Stats and Damage meter panels, responsive shop/inventory layouts and installed-build patch notes. Art and balance remain in development; five-player internet performance and touchpad behavior still need testing. [Full patch notes](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/tag/v0.6.0). Online now requires v0.6.0 or newer.
 
 ## Offline or online?
 
@@ -42,7 +42,7 @@ The game verifies the official download's size and SHA-256 checksum. `FrontierUp
 
 ## The frontier ahead
 
-The long-term vision is a persistent shared PvE universe where friends can hunt, explore and eventually quest together. Plans include a three-sector backbone, procedural portal expeditions, changing sector modifiers and community proposals/voting.
+The long-term vision is a persistent shared PvE universe where friends can hunt, explore and eventually quest together. Three linked sectors are playable. Future plans include procedural portal expeditions, changing sector modifiers and community proposals/voting.
 
 Those are future intentions. Full party/group mechanics, a developed questline and the wider universe are not implemented yet. Current work prioritizes movement, combat readability, UI quality, progression and reliable testing.
 
