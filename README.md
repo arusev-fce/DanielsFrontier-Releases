@@ -6,6 +6,12 @@ An original space-combat and exploration game about outfitting your own ship, le
 
 Fly 3D ships from an angled overhead view. Pick encounters, fight alien threats, collect salvage and return to a station to improve your loadout. The goal is a satisfying journey from a modest starter ship toward a capable fleet, with choices in speed, protection, weapons and drones.
 
+## v0.8.1 ? Icon and engine-trail hotfix
+
+[Download the latest Windows package](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/latest/download/DanielsFrontier-Windows.zip) ? [0.8.1 patch notes](RELEASE_NOTES_0_8_1.md)
+
+Adds the six shop category icons and28 dock/hotbar/editor/wallet icons. Corrects exhaust direction during rapid turns and enemy-facing orbits, preserving the accepted full-length appearance. Gameplay balance is unchanged from0.8.0. Fresh installs use the complete ZIP; existing players can use the in-game updater.
+
 ## v0.8.0 ? Combat and biological barrage update
 
 [Download the complete Windows package](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/latest/download/DanielsFrontier-Windows.zip) ? [0.8.0 patch notes](RELEASE_NOTES_0_8_0.md)
