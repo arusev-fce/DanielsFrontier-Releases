@@ -6,6 +6,14 @@ An original space-combat and exploration game about outfitting your own ship, le
 
 Fly 3D ships from an angled overhead view. Pick encounters, fight alien threats, collect salvage and return to a station to improve your loadout. The goal is a satisfying journey from a modest starter ship toward a capable fleet, with choices in speed, protection, weapons and drones.
 
+## v0.8.0 ? Combat and biological barrage update
+
+[Download the complete Windows package](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/latest/download/DanielsFrontier-Windows.zip) ? [0.8.0 patch notes](RELEASE_NOTES_0_8_0.md)
+
+Improved enemy tactics and progression balance, conserved shield/hull damage, red damage numbers and MISS feedback. Model-aligned lasers and rockets, six-shot biological barrages with varied impacts, smoother ship turning and cyan-white engine plumes.
+
+For a fresh install, extract the entire ZIP and run `DanielsFrontier.exe`. Existing players can use the in-game update action; the complete package includes the unchanged verified `FrontierUpdater.exe`, prerequisites and notices. Keep the accompanying files together. Local saves remain separate.
+
 ## Download
 
 **[Download the latest Windows build](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/latest/download/DanielsFrontier-Windows.zip)** · [Release notes and older versions](https://github.com/arusev-fce/DanielsFrontier-Releases/releases)
