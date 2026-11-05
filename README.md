@@ -6,6 +6,12 @@ An original space-combat and exploration game about outfitting your own ship, le
 
 Fly 3D ships from an angled overhead view. Pick encounters, fight alien threats, collect salvage and return to a station to improve your loadout. The goal is a satisfying journey from a modest starter ship toward a capable fleet, with choices in speed, protection, weapons and drones.
 
+## v0.8.1.2 Hotfix - Connection diagnostics
+
+[Download latest Windows package](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/latest/download/DanielsFrontier-Windows.zip) | [Patch notes](RELEASE_NOTES_0_8_1_2.md)
+
+In online flight open Esc > Connection diagnostics > Send report to support. The timing report and pilot name reach the private support inbox; no file handling is needed. Request/server timings, frame stalls and snapshot costs help diagnose latency. Gameplay and engine visuals are unchanged.
+
 ## v0.8.1.1 Hotfix
 
 [Download the latest Windows package](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/latest/download/DanielsFrontier-Windows.zip) | [Patch notes](RELEASE_NOTES_0_8_1_1.md)
