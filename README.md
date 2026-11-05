@@ -52,7 +52,7 @@ Daniel's Frontier is free to download and play, with proprietary source code
 and creative content. The source repository is private. No open-source release
 is currently planned, and monetization is deferred.
 
-Copyright (c) 2026 Александър Капитанидис. All rights reserved in the original
+Copyright (c) 2026 Aleksander Kapitanidis. All rights reserved in the original
 project material owned by the named owner. The project is developed by an
 individual; no company affiliation is claimed.
 
@@ -76,6 +76,10 @@ request permission through the official project account,
 This repository distributes runtime releases and player documentation only.
 It does not distribute the private game source, player databases,
 credentials or private server configuration.
+
+## Third-party notices
+
+The version-matched [dependency notices](THIRD_PARTY_NOTICES.txt) cover the public 0.7.8 Windows client, including Godot, .NET and WebView2. These companion documents supplement the notices in the original package; existing downloads are unchanged. Future packages will include the complete applicable notices. Third-party licenses do not grant reuse rights in the game's proprietary code or artwork.
 
 ## v0.7.0 - Interface, recovery and pilot skills
 

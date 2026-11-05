@@ -1,0 +1,6 @@
+Daniel's Frontier includes third-party software. Its proprietary notice does not replace the licenses below.
+
+Godot 4.7.2: Licenses/Dependencies/Godot/4.7.2/
+GodotSharp 4.7.2: Licenses/Dependencies/GodotSharp/4.7.2/
+Microsoft.NETCore.App.Runtime.win-x64 8.0.32: Licenses/Dependencies/Microsoft.NETCore.App.Runtime.win-x64/8.0.32/
+Microsoft.Web.WebView2 1.0.4314.35: Licenses/Dependencies/Microsoft.Web.WebView2/1.0.4314.35/

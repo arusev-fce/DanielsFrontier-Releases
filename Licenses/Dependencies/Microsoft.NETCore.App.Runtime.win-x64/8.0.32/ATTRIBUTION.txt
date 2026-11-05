@@ -1,0 +1,6 @@
+Microsoft.NETCore.App.Runtime.win-x64 8.0.32
+© Microsoft Corporation. All rights reserved.
+License: MIT
+Upstream: https://github.com/dotnet/runtime
+Source commit: b9a49e4a6d3a444a3685e318c74a7892d01873f7
+Unmodified third-party component. Project proprietary terms do not replace its license.

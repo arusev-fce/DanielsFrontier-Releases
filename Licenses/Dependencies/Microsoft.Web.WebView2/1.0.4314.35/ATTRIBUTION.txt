@@ -1,0 +1,6 @@
+Microsoft.Web.WebView2 1.0.4314.35
+© Microsoft Corporation. All rights reserved.
+License: LICENSE.txt
+Upstream: 
+Source commit: 
+Unmodified third-party component. Project proprietary terms do not replace its license.

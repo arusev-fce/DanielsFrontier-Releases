@@ -1,6 +1,6 @@
 Daniel's Frontier - Proprietary Rights Notice
 
-Copyright (c) 2026 Александър Капитанидис.
+Copyright (c) 2026 Aleksander Kapitanidis.
 All rights reserved in the original project material owned by the named owner.
 
 Daniel's Frontier is proprietary software. No open-source license is granted
