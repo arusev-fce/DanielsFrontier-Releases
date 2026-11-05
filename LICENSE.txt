@@ -1,0 +1,31 @@
+Daniel's Frontier - Proprietary Rights Notice
+
+Copyright (c) 2026 Александър Капитанидис.
+All rights reserved in the original project material owned by the named owner.
+
+Daniel's Frontier is proprietary software. No open-source license is granted
+for the game's original source code or creative content. Access to this
+repository, or free availability of a game build, does not grant permission
+to reuse, modify, redistribute, sublicense or sell that material, except as
+expressly authorized in writing, in separate applicable terms, or by law.
+
+Officially distributed game builds may be downloaded, installed and played
+for personal, non-commercial entertainment without a purchase fee. This
+permission does not grant access to restricted online services, ownership of
+the game or its assets, or permission to extract and reuse assets in other
+products. Link others to the official download rather than rehosting builds.
+
+Third-party software and content remain subject to their own licenses and
+notices. This notice does not restrict permissions granted by those licenses,
+transfer contributors' rights, or override applicable statutory rights.
+
+Rights are reserved only to the extent they exist and are controlled by the
+named owner. No exclusive copyright is asserted in purely AI-generated
+material that is ineligible for protection, third-party references, or
+material belonging to other contributors. No trademark registration is
+asserted by this notice.
+
+Separate written permission is required for uses beyond the permissions
+above, unless another applicable license or law permits them. Permission
+requests may be directed to the official project account, arusev-fce, at
+https://github.com/arusev-fce.

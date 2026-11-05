@@ -46,13 +46,36 @@ The long-term vision is a persistent shared PvE universe where friends can hunt,
 
 Those are future intentions. Session groups now support up to five pilots, live contacts and invitations; party rewards remain individual. A developed questline and the wider universe remain future work. Current work prioritizes movement, combat readability, UI quality, progression and reliable testing.
 
-## Free-to-play and future open source
+## Free-to-play and proprietary rights
 
-The intended direction is **free-to-play and eventually open source**. Test builds are free to download and play. The source repository is currently private and no project-wide open-source license has been selected.
+Daniel's Frontier is free to download and play, with proprietary source code
+and creative content. The source repository is private. No open-source release
+is currently planned, and monetization is deferred.
 
-Code, artistic content and branding will have documented licensing boundaries before the source opens. Public availability of these binaries is not a blanket license to reuse code, art or the game name. Godot and bundled dependencies keep their existing terms. Future open-source availability will not expose player data, credentials or private server configuration.
+Copyright (c) 2026 Александър Капитанидис. All rights reserved in the original
+project material owned by the named owner. The project is developed by an
+individual; no company affiliation is claimed.
 
-This repository distributes runtime releases and player documentation only. It contains no game-server database, private registration codes or email-service credentials.
+Official game builds may be downloaded, installed and played for personal,
+non-commercial entertainment without a purchase fee. This does not transfer
+ownership or grant permission to reuse the game's code or assets in other
+products, sell or rehost builds, or use its identity to imply official
+affiliation. Link to the official download to share the game. Online access
+remains subject to the service's admission rules.
+
+Godot and other third-party components retain their own licenses and notices.
+Those permissions and applicable statutory rights are unaffected. Rights are
+reserved only where they exist and are controlled by the owner; this notice
+does not claim other contributors' rights or exclusive copyright in
+unprotectable purely AI-generated material.
+
+See [LICENSE.txt](LICENSE.txt) for the complete rights notice. For other uses,
+request permission through the official project account,
+[arusev-fce](https://github.com/arusev-fce).
+
+This repository distributes runtime releases and player documentation only.
+It does not distribute the private game source, player databases,
+credentials or private server configuration.
 
 ## v0.7.0 - Interface, recovery and pilot skills
 
