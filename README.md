@@ -6,6 +6,14 @@ An original space-combat and exploration game about outfitting your own ship, le
 
 Fly 3D ships from an angled overhead view. Pick encounters, fight alien threats, collect salvage and return to a station to improve your loadout. The goal is a satisfying journey from a modest starter ship toward a capable fleet, with choices in speed, protection, weapons and drones.
 
+## v0.8.2 - Fleet and interface update
+
+[Download latest Windows package](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/latest/download/DanielsFrontier-Windows.zip) | [Patch notes](RELEASE_NOTES_0_8_2.md)
+
+Faster equipment fitting, clearer rarity cards, rewards inbox, thirty permanent ranks and four drone models. Wing/Wheel formations, wider weapons, improved BIO attacks and smoother engines. Home rewards improve early progression; Ember enemies are more dangerous. Optional Windows-protected remembered sign-in and in-game connection diagnostics.
+
+Read the [EULA](EULA.md), [Privacy Notice](PRIVACY_NOTICE.md), [Community Rules](GAME_AND_COMMUNITY_RULES.md) and [Technology Notice](TECHNOLOGY_NOTICE.md).
+
 ## v0.8.1.3 Hotfix - Stormrider and combat performance
 
 [Download latest Windows package](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/latest/download/DanielsFrontier-Windows.zip) | [Patch notes](RELEASE_NOTES_0_8_1_3.md)
@@ -111,7 +119,7 @@ credentials or private server configuration.
 
 ## Third-party notices
 
-The version-matched [dependency notices](THIRD_PARTY_NOTICES.txt) cover the public 0.7.8 Windows client, including Godot, .NET and WebView2. These companion documents supplement the notices in the original package; existing downloads are unchanged. Future packages will include the complete applicable notices. Third-party licenses do not grant reuse rights in the game's proprietary code or artwork.
+The version-matched [dependency notices](THIRD_PARTY_NOTICES.txt) cover Godot, .NET and WebView2. Complete applicable notices ship with the Windows package. Third-party licenses do not grant reuse rights in the game's proprietary code or artwork.
 
 ## v0.7.0 - Interface, recovery and pilot skills
 
