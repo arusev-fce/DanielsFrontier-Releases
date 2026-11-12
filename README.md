@@ -4,7 +4,7 @@
 
 # Daniel's Frontier
 
-**Current public release: v0.8.9.1** · Windows desktop
+**Current public release: v0.8.9.2** · Windows desktop
 
 [Download the complete game](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/latest/download/DanielsFrontier-Windows.zip) · [Latest patch notes](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/latest)
 
@@ -30,8 +30,8 @@ Choose a faction, grow your pilot and use the in-game encyclopedia and tutorial 
 
 Keep your pilot/save files when updating. Game downloads are public; registration is private and requires an invitation.
 
-## Latest release: 0.8.9.1
+## Latest release: 0.8.9.2
 
-This update improves the compact encyclopedia, tutorial resume and pinning, target hull and shield tracks, skill and faction icons, inventory tooltips and release-note layering. [Read the 0.8.9.1 release notes](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/tag/v0.8.9.1).
+This hotfix reworks the four expedition events, tunes solo and group difficulty, clarifies builder and helper rewards, improves swarm performance and portal travel, and standardizes interface text, scaling and frames. [Read the 0.8.9.2 release notes](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/tag/v0.8.9.2).
 
 The banners above are original illustrations of the game's themes, not gameplay screenshots. Source code, server and owner tools remain private. Daniel's Frontier is proprietary; bundled third-party notices apply. No source-code or asset-reuse licence is granted.
