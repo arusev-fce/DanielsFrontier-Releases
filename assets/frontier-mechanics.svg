@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" role="img" aria-label="Illustrated combat, exploration and ship equipment themes">
+ <rect width="1200" height="230" rx="20" fill="#091825"/><g stroke="#234c60" stroke-width="2"><path d="M400 22v186M800 22v186"/></g>
+ <g font-family="Segoe UI,Arial,sans-serif" font-weight="700" fill="#e5f0f2" font-size="26" text-anchor="middle"><text x="200" y="192">COMBAT</text><text x="600" y="192">EXPLORE</text><text x="1000" y="192">BUILD</text></g>
+ <g fill="none" stroke="#6ce0ee" stroke-width="7" stroke-linecap="round"><circle cx="200" cy="92" r="48"/><path d="M200 27v30m0 70v30m-65-65h30m70 0h30M545 90c0-30 25-55 55-55s55 25 55 55-55 55-55 55-55-25-55-55Z"/><circle cx="600" cy="90" r="19"/><path d="M950 53h100v75H950zM969 70v40m23-40v40m22-40v40m23-40v40"/></g><path d="M124 125 188 83 268 125" fill="none" stroke="#f58b50" stroke-width="6"/>
+</svg>
