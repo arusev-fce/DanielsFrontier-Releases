@@ -4,7 +4,7 @@
 
 # Daniel's Frontier
 
-**Current public release: v0.8.9.4** · Windows desktop
+**Current public release: v0.8.9.5** · Windows desktop
 
 [Download the complete game](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/latest/download/DanielsFrontier-Windows.zip) · [Latest patch notes](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/latest)
 
@@ -14,7 +14,7 @@ Pilot a ship through a persistent shared universe. Fight hostile fleets, travel 
 
 ![Combat, exploration and ship-building banner](assets/frontier-mechanics.png)
 
-## 0.8.9.4 - Combat and interface hotfix
+## 0.8.9.5 - Combat and interface hotfix
 
 - Smoother inventory selection, skill hovering and combat updates.
 - Reliable automatic target handoff after kills.
@@ -39,8 +39,14 @@ Choose a faction, grow your pilot and use the in-game encyclopedia and tutorial 
 
 Keep your pilot/save files when updating. Game downloads are public; registration is private and requires an invitation.
 
-## Latest release: 0.8.9.4
+## Latest release: 0.8.9.5
 
-This hotfix updates all seven player-ship models while preserving their runtime scale, weapon and engine origins, faction skin selection and existing gameplay balance. [Read the 0.8.9.4 release notes](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/tag/v0.8.9.4).
+This hotfix updates all seven player-ship models while preserving their runtime scale, weapon and engine origins, faction skin selection and existing gameplay balance. [Read the 0.8.9.5 release notes](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/tag/v0.8.9.5).
 
 The banners above are original illustrations of the game's themes, not gameplay screenshots. Source code, server and owner tools remain private. Daniel's Frontier is proprietary; bundled third-party notices apply. No source-code or asset-reuse licence is granted.
+
+## Latest update - 0.8.9.5
+
+Fleet movement and acceleration improvements, stronger early combat, revised elite loot and resale, increased Aurum rewards, regional mining improvements, and smoother inventory/shop controls.
+
+[Full patch notes](PATCH_NOTES.md) | [Download Windows client](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/latest/download/DanielsFrontier-Windows.zip)
