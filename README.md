@@ -1,6 +1,6 @@
 <div align="center">
 
-![Daniel's Frontier — original game-inspired banner](assets/frontier-banner.svg)
+![Daniel's Frontier — original game-inspired banner](assets/frontier-banner.png)
 
 # Daniel's Frontier
 
@@ -12,7 +12,7 @@
 
 Pilot a ship through a persistent shared universe. Fight hostile fleets, travel through portals, mine resources and build equipment that changes how your ship plays.
 
-![Combat, exploration and ship-building banner](assets/frontier-mechanics.svg)
+![Combat, exploration and ship-building banner](assets/frontier-mechanics.png)
 
 ## The game
 
