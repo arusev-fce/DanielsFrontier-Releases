@@ -16,6 +16,7 @@ Pilot a ship through a persistent shared universe. Fight hostile fleets, travel 
 
 ## 0.8.9.6 - Expedition rewards and smoother interfaces
 
+- Updater repaired: the complete ZIP works with older launchers, and the rebuilt launcher removes the obsolete 600 MiB download cap.
 - Larger expedition Credit, Aurum and upgrade-material rewards, lower high-tier entry fees and guaranteed Epic-or-better builder equipment.
 - Clearer portal costs using the same compact resource tiles as crafting.
 - Smoother shop previews, skill-tooltip zooming, hotbar hints and drone formation settling.

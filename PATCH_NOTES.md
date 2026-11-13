@@ -20,3 +20,5 @@
 | Elite | 600,000 | 4,000,000 | 40,000 | 4 | 0% / 60% / 40% |
 
 Builder bonuses require successful completion. Combat earnings are additional and shared across the group. Construction ore/component requirements and main-map equipment drop rates are unchanged.
+
+- Updater repair: removed the obsolete 600 MiB compressed-download limit. The complete Windows ZIP uses stronger compression so older launchers can install this release. Checksum, trusted download origin and safe extraction checks remain active.
