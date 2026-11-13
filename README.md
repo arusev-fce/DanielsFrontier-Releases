@@ -4,7 +4,7 @@
 
 # Daniel's Frontier
 
-**Current public release: v0.8.9.7** · Windows desktop
+**Current public release: v0.8.9.8** · Windows desktop
 
 [Download the complete game](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/latest/download/DanielsFrontier-Windows.zip) · [Latest patch notes](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/latest)
 
@@ -14,12 +14,13 @@ Pilot a ship through a persistent shared universe. Fight hostile fleets, travel 
 
 ![Combat, exploration and ship-building banner](assets/frontier-mechanics.png)
 
-## 0.8.9.7 - Recovery and expedition improvements
+## 0.8.9.8 - Smoother menus and clearer filters
 
-- More reliable server saves and combat effects after returning from expeditions.
-- Longer wave breaks, a preparation countdown and improved portal combat rewards.
-- Better main-map enemy pursuit and a larger gate-entry zone.
-- New recovery screen, drones respawning at your ship and safe inactivity logout.
+- Smoother shop browsing. Updating the product list no longer rebuilds the selected offer or Buy button. Quantity and price captions stay consistent.
+- Cleaner skill hints. One explicitly sized hint replaces the competing native tooltip path.
+- Smoother expedition selection. Details and material tiles are reused; portal previews and reward panels are cached. Resource changes update the amounts directly.
+- Clearer Matter Defabricator filters. Checked rarities and item models have stronger highlights. Edit filters has its own icon, and the device tooltip lists your saved choices. An empty setup clearly shows that auto-defabrication is OFF.
+- More consistent text. Newly attached controls receive the current UI text scale immediately, avoiding delayed resizing.
 
 ## The game
 
