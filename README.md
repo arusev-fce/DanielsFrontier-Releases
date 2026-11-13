@@ -39,3 +39,13 @@ Choose a faction, grow your pilot and use the in-game encyclopedia and tutorial 
 Keep your pilot/save files when updating. Game downloads are public; registration is private and requires an invitation.
 
 The banners above are original illustrations of the game's themes, not gameplay screenshots. Source code, server and owner tools remain private. Daniel's Frontier is proprietary; bundled third-party notices apply. No source-code or asset-reuse licence is granted.
+
+## 0.8.9.9 - Smoother saves and a livelier frontier
+
+- Reduced saving-related gameplay stalls with ordered background saves.
+- News, Contact Us with optional diagnostics, and lifetime Statistics.
+- Recover 65% of recorded upgrade-material spending when dismantling, alongside base returns. Tracking starts with this update.
+- Star glow, distant comets, gentle nebula motion and cloud flashes, adjustable in Settings.
+- Refreshed help, text, defabricator feedback and release-note presentation.
+
+Existing pilots, equipment and wallets are preserved.
