@@ -4,7 +4,7 @@
 
 # Daniel's Frontier
 
-**Current public release: v0.8.9.6** · Windows desktop
+**Current public release: v0.8.9.7** · Windows desktop
 
 [Download the complete game](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/latest/download/DanielsFrontier-Windows.zip) · [Latest patch notes](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/latest)
 
@@ -14,17 +14,12 @@ Pilot a ship through a persistent shared universe. Fight hostile fleets, travel 
 
 ![Combat, exploration and ship-building banner](assets/frontier-mechanics.png)
 
-## 0.8.9.6 - Expedition rewards and smoother interfaces
+## 0.8.9.7 - Recovery and expedition improvements
 
-- Updater repaired: the complete ZIP works with older launchers, and the rebuilt launcher removes the obsolete 600 MiB download cap.
-- Larger expedition Credit, Aurum and upgrade-material rewards, lower high-tier entry fees and guaranteed Epic-or-better builder equipment.
-- Clearer portal costs using the same compact resource tiles as crafting.
-- Smoother shop previews, skill-tooltip zooming, hotbar hints and drone formation settling.
-- Improved Ember Raider/Lancer/Bomber pursuit and protected-gate aggro behavior.
-- Revised crafting material requirements; mining production, ore costs and stabilizers remain unchanged.
-- Matching Windows client and server release.
-
-[Full 0.8.9.6 patch notes](PATCH_NOTES.md)
+- More reliable server saves and combat effects after returning from expeditions.
+- Longer wave breaks, a preparation countdown and improved portal combat rewards.
+- Better main-map enemy pursuit and a larger gate-entry zone.
+- New recovery screen, drones respawning at your ship and safe inactivity logout.
 
 ## The game
 
