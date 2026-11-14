@@ -42,6 +42,7 @@ Pilot a ship through a persistent shared universe. Fight hostile fleets, travel 
 - Inactive combat histories expire even when nobody is polling that map.
 
 ### Interface improvements
+- Corrected update-package metadata for older installations with an unlisted checksum file.
 - Clear settings-save feedback, server-status colours and layout snapping.
 - Updated updater progress presentation and selected background/star corrections.
 - Removed unnecessary expedition gate labels.
