@@ -40,12 +40,13 @@ Keep your pilot/save files when updating. Game downloads are public; registratio
 
 The banners above are original illustrations of the game's themes, not gameplay screenshots. Source code, server and owner tools remain private. Daniel's Frontier is proprietary; bundled third-party notices apply. No source-code or asset-reuse licence is granted.
 
-## 0.8.9.9 - Smoother saves and a livelier frontier
+## 0.8.9.10 - Clearer interfaces and sharper space
 
-- Reduced saving-related gameplay stalls with ordered background saves.
-- News, Contact Us with optional diagnostics, and lifetime Statistics.
-- Recover 65% of recorded upgrade-material spending when dismantling, alongside base returns. Tracking starts with this update.
-- Star glow, distant comets, gentle nebula motion and cloud flashes, adjustable in Settings.
-- Refreshed help, text, defabricator feedback and release-note presentation.
+- Contact Us Escape lockout fixed, with themed message fields and text scaling.
+- Clearer grouped Statistics and accurate gathered-material totals after dismantling.
+- Matching angular Inventory and Workshop filters.
+- Improved respawn-protection shield.
+- Sharper nebula rendering and better aligned star glows.
+- Reduced first-join loading work and improved server stall diagnostics.
 
 Existing pilots, equipment and wallets are preserved.
