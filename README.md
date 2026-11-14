@@ -4,7 +4,7 @@
 
 # Daniel's Frontier
 
-**Current public release: v0.9.1** : Windows desktop
+**Current public release: v0.9.2** : Windows desktop
 
 [Download the complete game](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/latest/download/DanielsFrontier-Windows.zip) : [Latest patch notes](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/latest)
 
@@ -14,37 +14,17 @@ Pilot a ship through a persistent shared universe. Fight hostile fleets, travel 
 
 ![Combat, exploration and ship-building banner](assets/frontier-mechanics.png)
 
-## 0.9.1 : Quests and frontier progression
+## 0.9.2 : Multiplayer hotfix
 
-### A new chapter
-- 700 Main story assignments, with 140 Daily and 134 Weekly quest variations.
-- Combat, exploration, gathering, crafting, spending, donation and expedition objectives.
-- One active Main, Daily and Weekly quest at a time, with a compact tracker and completion history.
-- Choose from 3 Daily and 5 Weekly assignments each period, with one active per track. Preview before accepting.
-- J opens Quests; the shortcut is listed in Controls.
-- Compact styled tracker, short offer previews and shared UI typography.
-- Daily resets at 00:00 UTC; Weekly resets Monday at 00:00 UTC. Completed unclaimed rewards remain claimable.
-- Daily rerolls every six hours; Weekly rerolls every day. Rerolling starts fresh progress.
-- Full character portraits and clear five-ship difficulty ratings, plus dedicated XP and Honor icons.
+- Smoother remote-player movement with continuous snapshot playback, bounded timing correction and respawn resets.
+- Reduced repeated weapon-effect mesh/material creation; pooled independent impact-fade materials.
+- World and private Group chat with channel buttons, automatic group switching, pilot levels, coloured names and faction crests.
+- Completed tutorials can be replayed without repeating their starter reward.
+- Lighter numeric inventory item-level badges without the L prefix.
 
-### Progression and rewards
-- Reviewed quest difficulty and rewards across the campaign; passive collection no longer masquerades as elite combat.
-- Regional component requirements for portals, with ore and stabilizer costs preserved.
-- Revised combined portal and chest rewards; existing earned pity progress is retained.
-- Corrected authoritative boss pity, shared Honor rounding and portal Credit-fee quotes.
-- Mining income advances eligible gathering objectives and material statistics.
-- Safer batch dismantling and defabrication arithmetic.
+Existing saves, equipment and UI layouts are preserved. Client, server and admin console are updated together.
 
-### Smoother online play
-- Reduced repeated snapshot and actor-delta work.
-- Reused transaction buffers and removed repeated loadout validation work.
-- Improved save scheduling and memory retention, with durable saves and valid backups preserved.
-- Inactive combat histories expire even when nobody is polling that map.
-
-### Interface improvements
-- Clear settings-save feedback, server-status colours and layout snapping.
-- Updated updater progress presentation and selected background/star corrections.
-- Removed unnecessary expedition gate labels.
+Known issue: the reported large combat hitch was not reproduced in bounded profiling; these improvements do not establish that every combat stall is eliminated.
 
 Existing pilots, ships, equipment and earned progress are preserved. Matching client, server and private admin-console packages accompany this release.
 
