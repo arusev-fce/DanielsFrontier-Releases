@@ -4,7 +4,7 @@
 
 # Daniel's Frontier
 
-**Current public release: v0.8.9.8** · Windows desktop
+**Current public release: v0.9.0** : Windows desktop
 
 [Download the complete game](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/latest/download/DanielsFrontier-Windows.zip) · [Latest patch notes](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/latest)
 
@@ -14,13 +14,39 @@ Pilot a ship through a persistent shared universe. Fight hostile fleets, travel 
 
 ![Combat, exploration and ship-building banner](assets/frontier-mechanics.png)
 
-## 0.8.9.8 - Smoother menus and clearer filters
+## 0.9.0 : Quests and frontier progression
 
-- Smoother shop browsing. Updating the product list no longer rebuilds the selected offer or Buy button. Quantity and price captions stay consistent.
-- Cleaner skill hints. One explicitly sized hint replaces the competing native tooltip path.
-- Smoother expedition selection. Details and material tiles are reused; portal previews and reward panels are cached. Resource changes update the amounts directly.
-- Clearer Matter Defabricator filters. Checked rarities and item models have stronger highlights. Edit filters has its own icon, and the device tooltip lists your saved choices. An empty setup clearly shows that auto-defabrication is OFF.
-- More consistent text. Newly attached controls receive the current UI text scale immediately, avoiding delayed resizing.
+### A new chapter
+- 700 Main story assignments, with 140 Daily and 134 Weekly quest variations.
+- Combat, exploration, gathering, crafting, spending, donation and expedition objectives.
+- One active Main, Daily and Weekly quest at a time, with a compact tracker and completion history.
+- Choose from 3 Daily and 5 Weekly assignments each period, with one active per track. Preview before accepting.
+- J opens Quests; the shortcut is listed in Controls.
+- Compact styled tracker, short offer previews and shared UI typography.
+- Daily resets at 00:00 UTC; Weekly resets Monday at 00:00 UTC. Completed unclaimed rewards remain claimable.
+- Daily rerolls every six hours; Weekly rerolls every day. Rerolling starts fresh progress.
+- Full character portraits and clear five-ship difficulty ratings, plus dedicated XP and Honor icons.
+
+### Progression and rewards
+- Reviewed quest difficulty and rewards across the campaign; passive collection no longer masquerades as elite combat.
+- Regional component requirements for portals, with ore and stabilizer costs preserved.
+- Revised combined portal and chest rewards; existing earned pity progress is retained.
+- Corrected authoritative boss pity, shared Honor rounding and portal Credit-fee quotes.
+- Mining income advances eligible gathering objectives and material statistics.
+- Safer batch dismantling and defabrication arithmetic.
+
+### Smoother online play
+- Reduced repeated snapshot and actor-delta work.
+- Reused transaction buffers and removed repeated loadout validation work.
+- Improved save scheduling and memory retention, with durable saves and valid backups preserved.
+- Inactive combat histories expire even when nobody is polling that map.
+
+### Interface improvements
+- Clear settings-save feedback, server-status colours and layout snapping.
+- Updated updater progress presentation and selected background/star corrections.
+- Removed unnecessary expedition gate labels.
+
+Existing pilots, ships, equipment and earned progress are preserved. Matching client, server and private admin-console packages accompany this release.
 
 ## The game
 
