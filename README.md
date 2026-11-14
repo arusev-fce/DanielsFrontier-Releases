@@ -54,3 +54,5 @@ The banners above are original illustrations of the game's themes, not gameplay 
 - Clearer Statistics, encyclopedia guidance and material icons for batch disassembly.
 
 Existing pilots, equipment and wallets are preserved.
+
+- Matching client version is required automatically from the running server build, on join and gameplay requests.
