@@ -1,12 +1,12 @@
 <div align="center">
 
-![Daniel's Frontier — original game-inspired banner](assets/frontier-banner.png)
+![Daniel's Frontier : original game-inspired banner](assets/frontier-banner.png)
 
 # Daniel's Frontier
 
-**Current public release: v0.9.0** : Windows desktop
+**Current public release: v0.9.1** : Windows desktop
 
-[Download the complete game](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/latest/download/DanielsFrontier-Windows.zip) · [Latest patch notes](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/latest)
+[Download the complete game](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/latest/download/DanielsFrontier-Windows.zip) : [Latest patch notes](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/latest)
 
 </div>
 
@@ -14,7 +14,7 @@ Pilot a ship through a persistent shared universe. Fight hostile fleets, travel 
 
 ![Combat, exploration and ship-building banner](assets/frontier-mechanics.png)
 
-## 0.9.0 : Quests and frontier progression
+## 0.9.1 : Quests and frontier progression
 
 ### A new chapter
 - 700 Main story assignments, with 140 Daily and 134 Weekly quest variations.
@@ -42,7 +42,6 @@ Pilot a ship through a persistent shared universe. Fight hostile fleets, travel 
 - Inactive combat histories expire even when nobody is polling that map.
 
 ### Interface improvements
-- Corrected update-package metadata for older installations with an unlisted checksum file.
 - Clear settings-save feedback, server-status colours and layout snapping.
 - Updated updater progress presentation and selected background/star corrections.
 - Removed unnecessary expedition gate labels.
