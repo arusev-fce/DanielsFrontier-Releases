@@ -4,7 +4,7 @@
 
 # Daniel's Frontier
 
-**Current public release: v0.9.2.1** : Windows desktop
+**Current public release: v0.9.3** : Windows desktop
 
 [Download the complete game](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/latest/download/DanielsFrontier-Windows.zip) : [Latest patch notes](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/latest)
 
@@ -14,23 +14,21 @@ Pilot a ship through a persistent shared universe. Fight hostile fleets, travel 
 
 ![Combat, exploration and ship-building banner](assets/frontier-mechanics.png)
 
-## 0.9.2.1: Quests and multiplayer hotfix
+## 0.9.3: Audio and multiplayer polish
 
-- Reworked Daily and Weekly objectives and workload-based Credits, XP, Aurum, Honor, material and equipment rewards. Four offers per track remain; accepted progress is retained.
-- Main quests accept automatically, award completion rewards and activate the next assignment after three seconds. Selected Daily and Weekly quests also auto-claim. Completion notices and reward summaries appear in the event log.
-- Compact sign-in quest reminder instead of opening the full quest window; consistent quest numbering in details/history.
-- Shared HUD startup placement restores saved positions after frame sizing settles without requiring a first drag or rearranging overlapping panels.
-- Tutorial dragging uses a broad header area and move cursor; pin/minimize buttons stay independent.
-- Select other player ships to prefill Friends and Group without opening panels. Player attack targeting is blocked.
-- Reduced server snapshot comparison allocations, redundant client delta processing and irrelevant combat-event traffic. Weapon-effect preparation runs before first combat. Old-life movement snapshots cannot reset a respawned ship.
-- Escort display shows exact combined current/max convoy HP. Convoy attackers approach within damage range; close player interception still diverts them without blanket proximity diversion.
-- Expedition kill-reward budgets are bounded per attempt rather than exhausted across retries. Existing reward receipts remain intact and completion rewards stay one-time.
-- Normal expedition Rift Broodmother hull, shields and damage reduced by 35%; other difficulties and main-map enemies retain their stats.
-- Boss phase labels use readable screen-space shared text sizing instead of tiny 3D text.
-- Repaired corrupted text and standardized UI separators to colons. Added a source encoding checker.
-- Matching private admin console uses the current catalog, shared text and release identity.
-
-- Independent recovery-option cooldowns start only on use and expire while alive.
+- Cache player nameplate bounds and reuse remote faction/rank presentation to reduce nearby-player rendering work.
+- Close Expeditions, Workshop and device menus on disconnect/logout.
+- Remove the internal Engage combat label.
+- Add Daily and Weekly reset countdowns with exact reset times in the player device timezone.
+- Remove the online flight/combat sentence from ESC; use shared body typography for actions.
+- Add four approved adaptive music tracks, starting at 10 percent each launch, with author credits.
+- Add selected laser, rocket, impact, explosion, thruster, crafting, quest, loot, chat/group and low-health effects.
+- Add approved portal charge, continuous transit and softened arrival release; prevent the visual transition from cutting the tail.
+- Include gate playback in combat ducking; preserve bounded voices and stale-event rejection.
+- Add Sound settings: master, music, effects and ambience levels and enable switches, music mode and audio defaults.
+- Preserve audio preferences and shared checkbox sizing/text scaling.
+- Include the movable welcome-back quest reminder and its minimize/Esc behavior from the pending UI fixes.
+- Automatically confirm initial main-screen server health on a warmed connection instead of retaining connection-startup latency as its status color.
 
 Existing saves, equipment and UI layouts are preserved. Client, server and admin console are updated together.
 
