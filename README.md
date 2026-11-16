@@ -4,7 +4,7 @@
 
 # Daniel's Frontier
 
-**Current public release: v0.9.3** : Windows desktop
+**Current public release: v0.9.3.1** : Windows desktop
 
 [Download the complete game](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/latest/download/DanielsFrontier-Windows.zip) : [Latest patch notes](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/latest)
 
@@ -14,27 +14,20 @@ Pilot a ship through a persistent shared universe. Fight hostile fleets, travel 
 
 ![Combat, exploration and ship-building banner](assets/frontier-mechanics.png)
 
-## 0.9.3: Audio and multiplayer polish
+## 0.9.3.1 : Interface and combat presentation hotfix
 
-- Cache player nameplate bounds and reuse remote faction/rank presentation to reduce nearby-player rendering work.
-- Close Expeditions, Workshop and device menus on disconnect/logout.
-- Remove the internal Engage combat label.
-- Add Daily and Weekly reset countdowns with exact reset times in the player device timezone.
-- Remove the online flight/combat sentence from ESC; use shared body typography for actions.
-- Add four approved adaptive music tracks, starting at 10 percent each launch, with author credits.
-- Add selected laser, rocket, impact, explosion, thruster, crafting, quest, loot, chat/group and low-health effects.
-- Add approved portal charge, continuous transit and softened arrival release; prevent the visual transition from cutting the tail.
-- Include gate playback in combat ducking; preserve bounded voices and stale-event rejection.
-- Add Sound settings: master, music, effects and ambience levels and enable switches, music mode and audio defaults.
-- Preserve audio preferences and shared checkbox sizing/text scaling.
-- Include the movable welcome-back quest reminder and its minimize/Esc behavior from the pending UI fixes.
-- Automatically confirm initial main-screen server health on a warmed connection instead of retaining connection-startup latency as its status color.
+- Compact ESC menu; Help groups tutorial, controls, encyclopedia, contact and credits. Remove empty space below the footer.
+- Welcome-back quest reminder is movable and closable with its close button or Escape.
+- Restore faction crest and rank icon placement beside ship health/shield bars.
+- Hide combat damage indicators during offline pause.
+- Restore player and enemy rocket impact sounds and raise nearby enemy laser audibility; preserve approved player laser sounds and music.
+- Soften gate charge by 7 percent; replace abrupt arrival flash with a gradual dim teal transition.
+- Warm entry resources during departure. Entry loading time can still vary.
+- Add ship-relative Level Up effects and larger pulsing unread markers.
+- Place music attribution and license information in ESC Help/Credits and packaged notices.
+- Keep developer audio overrides out of Release builds and disposable profiles out of the saved pilot list.
 
-Existing saves, equipment and UI layouts are preserved. Client, server and admin console are updated together.
-
-Known issue: the reported large combat hitch was not reproduced in bounded profiling; these improvements do not establish that every combat stall is eliminated.
-
-Existing pilots, ships, equipment and earned progress are preserved. Matching client, server and private admin-console packages accompany this release.
+Player saves and saved UI layouts are preserved. No economy, drop-rate or ship-trail changes.
 
 ## The game
 
