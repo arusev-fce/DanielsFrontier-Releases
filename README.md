@@ -4,7 +4,7 @@
 
 # Daniel's Frontier
 
-**Current public release: v0.9.3.1** : Windows desktop
+**Current public release: v0.9.3.2** : Windows desktop
 
 [Download the complete game](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/latest/download/DanielsFrontier-Windows.zip) : [Latest patch notes](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/latest)
 
@@ -14,20 +14,19 @@ Pilot a ship through a persistent shared universe. Fight hostile fleets, travel 
 
 ![Combat, exploration and ship-building banner](assets/frontier-mechanics.png)
 
-## 0.9.3.1 : Interface and combat presentation hotfix
+## 0.9.3.2 : Music and interface hotfix
 
-- Compact ESC menu; Help groups tutorial, controls, encyclopedia, contact and credits. Remove empty space below the footer.
-- Welcome-back quest reminder is movable and closable with its close button or Escape.
-- Restore faction crest and rank icon placement beside ship health/shield bars.
-- Hide combat damage indicators during offline pause.
-- Restore player and enemy rocket impact sounds and raise nearby enemy laser audibility; preserve approved player laser sounds and music.
-- Soften gate charge by 7 percent; replace abrupt arrival flash with a gradual dim teal transition.
-- Warm entry resources during departure. Entry loading time can still vary.
-- Add ship-relative Level Up effects and larger pulsing unread markers.
-- Place music attribution and license information in ESC Help/Credits and packaged notices.
-- Keep developer audio overrides out of Release builds and disposable profiles out of the saved pilot list.
-
-Player saves and saved UI layouts are preserved. No economy, drop-rate or ship-trail changes.
+- Add Cyberpunk Renaissance, Goliath and Escape Velocity to the approved music roster.
+- Choose Adaptive, Chill, Battle or a custom ordered playlist. Six-second crossfades keep music continuous.
+- Energy Crossing portal audio, a dedicated level-up cue, unified chat/group cues and Epic-or-better loot notifications.
+- Other players can see drone trails; Workshop Escape works across crafting pages and recovery.
+- Softened thruster audio responds to acceleration and turns, controlled by Effects volume.
+- Distinct chat, Epic, Legendary and Mythic cues; clearer quest and level notifications.
+- Repeated critical-hull heartbeat below 10 percent health.
+- Fix Escape on Expeditions and Workshop; preserve window positions.
+- Extend audio sliders, show the playing track, and remove floating internal enemy phase labels.
+- Preserve existing music, startup music at 10 percent, saves and saved HUD layouts.
+- Music credits and licenses remain in ESC Help & info / Credits and packaged notices.
 
 ## The game
 
