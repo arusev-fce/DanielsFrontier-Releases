@@ -4,7 +4,7 @@
 
 # Daniel's Frontier
 
-**Current public release: v0.9.3.2** : Windows desktop
+**Current public release: v0.9.3.3** : Windows desktop
 
 [Download the complete game](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/latest/download/DanielsFrontier-Windows.zip) : [Latest patch notes](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/latest)
 
@@ -13,6 +13,16 @@
 Pilot a ship through a persistent shared universe. Fight hostile fleets, travel through portals, mine resources and build equipment that changes how your ship plays.
 
 ![Combat, exploration and ship-building banner](assets/frontier-mechanics.png)
+
+## 0.9.3.3 : Fleet and reliability hotfix
+
+- All 15 accepted Salvage, Ember and Rift mobs receive their reviewed structural refinements, retaining their baked finish and existing combat rules.
+- All seven approved player ships receive corrected UV routing and cleaned geometry.
+- Compatible ship meshes are combined to reduce rendering overhead in groups.
+- Faction crests remain conditional; existing ship sizes and physical firing points are preserved.
+- Session, portal, equipment and reward handling cleaned up without economy changes.
+- Private maintenance archives closed server logs and rotates audit receipts without deleting history.
+- Existing pilots, progression, settings and HUD layouts are preserved.
 
 ## 0.9.3.2 : Music and interface hotfix
 
@@ -46,11 +56,10 @@ Keep your pilot/save files when updating. Game downloads are public; registratio
 
 The banners above are original illustrations of the game's themes, not gameplay screenshots. Source code, server and owner tools remain private. Daniel's Frontier is proprietary; bundled third-party notices apply. No source-code or asset-reuse licence is granted.
 
-## 0.8.9.11 - Smoother online play and reliable expeditions
+## 0.9.3.3 - Reliability hotfix
 
-- Reduced snapshot traffic and improved server save scheduling.
-- More consistent online events, reconnects and combat updates.
-- Fixed escort completion, extraction and expedition Aurum/Honor rewards.
-- Clearer Statistics, encyclopedia guidance and material icons for batch disassembly.
+- Cleaner session, portal, equipment and reward-inbox handling.
+- Safer server upkeep and smaller private administration tools.
+- Existing combat rules, prices, drops and rewards are unchanged.
 
-Existing pilots, equipment and wallets are preserved.
+Existing pilots, equipment, wallets, settings and saved layouts are preserved.
