@@ -70,11 +70,3 @@ Choose a faction, grow your pilot and use the in-game encyclopedia and tutorial 
 Keep your pilot/save files when updating. Game downloads are public; registration is private and requires an invitation.
 
 The banners above are original illustrations of the game's themes, not gameplay screenshots. Source code, server and owner tools remain private. Daniel's Frontier is proprietary; bundled third-party notices apply. No source-code or asset-reuse licence is granted.
-
-## 0.9.3.3 - Reliability hotfix
-
-- Cleaner session, portal, equipment and reward-inbox handling.
-- Safer server upkeep and smaller private administration tools.
-- Existing combat rules, prices, drops and rewards are unchanged.
-
-Existing pilots, equipment, wallets, settings and saved layouts are preserved.
