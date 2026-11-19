@@ -29,6 +29,8 @@ Pilot a ship through a persistent shared universe. Fight hostile fleets, travel 
 - Remove 29 mandatory Main-story deadlines; preserve objective quantities, quest rewards, Daily/Weekly deadlines and recorded history.
 - Targeted future boss/miniboss Credit adjustments. Existing wallets, equipment, stored ore, mining investments, quest histories, skill points and saved layouts remain intact.
 
+- Update compatibility: fix SHA256SUMS.txt collisions when updating older installations. Checksums are published beside the ZIP; game binaries and server version are unchanged.
+
 ## 0.9.3.3 : Fleet and reliability hotfix
 
 - All 15 accepted Salvage, Ember and Rift mobs receive their reviewed structural refinements, retaining their baked finish and existing combat rules.
