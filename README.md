@@ -4,7 +4,7 @@
 
 # Daniel's Frontier
 
-**Current public release: v0.9.3.4** : Windows desktop
+**Current public release: v0.9.3.3** : Windows desktop
 
 [Download the complete game](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/latest/download/DanielsFrontier-Windows.zip) : [Latest patch notes](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/latest)
 
@@ -13,21 +13,6 @@
 Pilot a ship through a persistent shared universe. Fight hostile fleets, travel through portals, mine resources and build equipment that changes how your ship plays.
 
 ![Combat, exploration and ship-building banner](assets/frontier-mechanics.png)
-
-## 0.9.3.4 : Progression and expedition update
-
-- Smoother portal progression: 10-second preparation, one 6-9-second cleared-wave interval, gradual opening rosters and limited reinforcement overlap.
-- Revised Normal, Hard and Elite combat budgets. Station defenders return to their objective instead of acquiring a map-wide chase radius; Normal/Hard guardians are less punishing.
-- Convoy ships travel together, respond to weapon status effects and have real shields. One movable, minimizable event panel shows the four ships. Surviving shields recover between cleared waves.
-- Updated Research, relay, checkpoint and arrival-rift hardware with event lifecycle effects. Combat surfaces and objective resources are prepared before first contact.
-- Clearer main-map enemy tiers and smaller ordinary-to-miniboss/boss progression cliffs. Four early new-map encounters use damage objectives before later kill goals.
-- Boss Disarm immunity, shorter resisted miniboss interruption and boss slow/shred resistance. Focus and kill-follow-up bonuses reduced without resetting invested skills.
-- Revised regional portal entry costs, proportional stabilizer baskets and completion material caches. Each paid gate conserves its reward budget across attempts; most kill Credits are earned on successful completion.
-- Regional mining development, revised ten-level fees and once-per-level engineering with cheaper repeat installation materials. Ore buffers pause prospective production and accommodate active gathering goals.
-- Workshop upgrades can use owned regional substitutes and limited paid basic supplies. Bulk quotes consume simulated stock correctly and recovery records only physical investment.
-- Three optional, expensive advanced-material synthesis recipes unlock through regional visits and prior successful expeditions. Existing helper completions count.
-- Remove 29 mandatory Main-story deadlines; preserve objective quantities, quest rewards, Daily/Weekly deadlines and recorded history.
-- Targeted future boss/miniboss Credit adjustments. Existing wallets, equipment, stored ore, mining investments, quest histories, skill points and saved layouts remain intact.
 
 ## 0.9.3.3 : Fleet and reliability hotfix
 
