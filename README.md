@@ -4,7 +4,7 @@
 
 # Daniel's Frontier
 
-**Current public release: v0.9.3.4** : Windows desktop
+**Current public release: v0.9.4** : Windows desktop
 
 [Download the complete game](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/latest/download/DanielsFrontier-Windows.zip) : [Latest patch notes](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/latest)
 
@@ -13,6 +13,20 @@
 Pilot a ship through a persistent shared universe. Fight hostile fleets, travel through portals, mine resources and build equipment that changes how your ship plays.
 
 ![Combat, exploration and ship-building banner](assets/frontier-mechanics.png)
+
+## 0.9.4 : Outer Reach and pilot progression
+
+- Explore Sinter Glassworks, Pelagic Shoal and Disputed Meridian, with eight new PvE enemies and regional equipment/materials.
+- Pilot progression now spans 120 levels, with level-based access for new progression while preserving existing equipment and earned unlocks.
+- Workshop Projects introduce event research, specialist hull crafting and two Epic equipment sets. Specialist hulls currently use existing-model comparators; replacement art is deferred.
+- Salvage Frontier adds a Home-sector branch with salvage activities and component rewards.
+- Seven existing player ships receive revised hardware, faction finishes and fitted crests.
+- Mining areas, ore markers and legacy miner recovery are corrected.
+- Devices have dedicated ship-scaled slots below Drones, with existing devices preserved during migration.
+- Disputed Meridian branches from Ember Reach; scattered ore sites retain their IDs and investments.
+- Levels, stars and refinement require their exact resources; multi-item payments and stock displays are corrected.
+- Server roster preparation and threaded model-load shutdown are corrected.
+
 
 ## 0.9.3.4 : Progression and expedition update
 
