@@ -4,7 +4,7 @@
 
 # Daniel's Frontier
 
-**Current public release: v0.9.4** : Windows desktop
+**Current public release: v0.9.4.1** : Windows desktop
 
 [Download the complete game](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/latest/download/DanielsFrontier-Windows.zip) : [Latest patch notes](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/latest)
 
@@ -13,6 +13,25 @@
 Pilot a ship through a persistent shared universe. Fight hostile fleets, travel through portals, mine resources and build equipment that changes how your ship plays.
 
 ![Combat, exploration and ship-building banner](assets/frontier-mechanics.png)
+
+## 0.9.4.1 : Equipment art and save hotfix
+
+- New approved equipment, ship, shop-category and skin-theme artwork. Shared icons now appear in shop, inventory, crafting, rewards, hangar and encyclopedia.
+- Larger artwork within existing shop slots, with preserved proportions and unchanged button sizes.
+- Devices display their actual rarity frames. Existing item names are retained.
+- Completion and level-up cues take priority over routine notifications; chat and crafting no longer interrupt each other through one shared voice.
+- Portal reward receipts clone with less serialization and allocation while preserving full history and transaction isolation.
+- Corrected Arclight guns and preserved faction finishes and weapon origins.
+- Unfinished specialist hulls and drones are unavailable for new acquisition. Existing ownership, fitted equipment and saved research are preserved.
+- Fixed portal construction checks and exact payment. Missing materials block construction; repeated requests do not charge twice.
+- Device crafting tiers now reflect their costs: Defabricator Epic; Cloak and Shield Burst Legendary; Jump Drive Mythic. Costs and ability timings are unchanged.
+- Standard 1-Key chests are Epic; Reinforced 2-Key chests are Legendary. Contents odds and key prices are unchanged. Chest tooltips no longer imply an equipment-level requirement for opening.
+- Improved nearby enemy weapon sound admission without crowding player fire or changing the approved samples and music.
+- Device-ownership quest requirements now reflect legal acquisition levels while preserving existing ownership and earned access.
+- Updated level-120 guidance, all seven region entries, device-slot hints and equipment-set availability. Existing encyclopedia search remains available.
+- Reduced redundant save writes, corrected retry ordering and improved save diagnostics while preserving durable commits and backups.
+- Expedition panels close safely when their player session ends.
+
 
 ## 0.9.4 : Outer Reach and pilot progression
 
