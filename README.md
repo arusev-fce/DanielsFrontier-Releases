@@ -4,7 +4,7 @@
 
 # Daniel's Frontier
 
-**Current public release: v0.9.4.1** : Windows desktop
+**Current public release: v0.9.4.2** : Windows desktop
 
 [Download the complete game](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/latest/download/DanielsFrontier-Windows.zip) : [Latest patch notes](https://github.com/arusev-fce/DanielsFrontier-Releases/releases/latest)
 
@@ -13,6 +13,23 @@
 Pilot a ship through a persistent shared universe. Fight hostile fleets, travel through portals, mine resources and build equipment that changes how your ship plays.
 
 ![Combat, exploration and ship-building banner](assets/frontier-mechanics.png)
+
+## 0.9.4.2 : World and progression update
+
+- Reworked station, research station, shield relays, escort checkpoints, invasion portals and transit gates, preserving their existing gameplay interactions.
+- Six detailed ore models with matching minimap/material artwork and preserved mining sites and footprints.
+- Optimized world-model surfaces and textures, miner rendering and persistent weapon trails; corrected affected UVs and degenerate geometry.
+- Artwork-aligned star and nebula effects in Glassworks, Shoal and Meridian; original backgrounds retained.
+- More varied opening assignments, reduced early collection grinds and clearer Workshop guidance. Accepted quest progress and rewards are preserved.
+- Smoother Rift Matriarch progression, revised introductory damage goals and a defensive equipment reward before its required kill assignment.
+- Event-specific builder equipment caches: Invasion Laser/Rocket, defence Shield, Escort Engine and Research Drone/Utility.
+- Improved Daily/Weekly reward eligibility, reachable resource goals, stable choices and task/timer estimates.
+- Craftable Epic Pursuit Drive and Watch Drive provide fourth set support pieces, with distinct icons and event/research requirements. Owned legacy drones remain valid alternatives without double-counting.
+- Updater waits for running game instances and temporary file locks, shows installation progress and retains full rollback and unrelated-file protection.
+- Refreshed updater styling and application icon.
+- Corrected menu/status overlap, settings sizing, Hangar labels and encyclopedia typography.
+- Removed remaining question-mark help/prompt labels and replaced shop middle-dot separators with colons.
+
 
 ## 0.9.4.1 : Equipment art and save hotfix
 
